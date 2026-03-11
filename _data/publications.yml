@@ -1,5 +1,13 @@
 main:
 
+  - title: "Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors"
+    authors: E. Ka, D. Kim, <strong>Jooneui Hong</strong>, and C. Lee
+    conference_short: JAT
+    conference: "Journal of Advanced Transportation, 2020"
+    pdf: https://onlinelibrary.wiley.com/doi/10.1155/2020/7525721
+    image: ./assets/img/teaser_example.png
+    notes: Journal Paper
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
