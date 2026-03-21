@@ -79,9 +79,7 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/
 cv_link: files/Curriculum_Vitae.pdf
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/in/jooneuih
-Youtube: www.youtube.com/@jooenuihong3667
-personal_blog: https://brunch.co.kr/@jooneuih
+linkedin: https://www.linkedin.com
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
 # "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.
