@@ -2,10 +2,6 @@
 layout: homepage
 ---
 
----
-layout: homepage
----
-
 ## About Me
 
 I am a Ph.D. Candidate at the **University of California, Irvine (UCI)**, specializing in Transportation Systems Engineering at the Institute of Transportation Studies (ITS). I am interested in understanding the mechanisms underlying traffic congestion. In particular, I aim to uncover these mechanisms scientifically using diverse traffic data.
