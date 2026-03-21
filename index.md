@@ -14,7 +14,8 @@ Previously, I served as a Research Associate at the **Korea Development Institut
 
 ## Research Interests
 
-* **Traffic Modeling:** Link performance functions, network traffic flow, and small time-resolution data analysis (DTA).
+* **Traffic Demand Estimation:** 
+* **Traffic Modeling:** Analyze traffic demand-supply dynamics by refining existing link performance functions.
 * **Transportation Economics:** Congestion pricing (HOT/HOV systems), road usage charging, and travel demand control.
 * **Data Science in Transport:** Traffic noise prediction models and origin-destination matrix estimation using mobile data.
 
