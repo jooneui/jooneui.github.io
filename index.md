@@ -8,9 +8,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Candidate at the **University of California, Irvine (UCI)**, specializing in Transportation Systems Engineering at the Institute of Transportation Studies (ITS). My research focuses on developing theoretically grounded link performance models and network traffic modeling to improve urban mobility.
+I am a Ph.D. Candidate at the **University of California, Irvine (UCI)**, specializing in Transportation Systems Engineering at the Institute of Transportation Studies (ITS). I am interested in understanding the mechanisms underlying traffic congestion. In particular, I aim to uncover these mechanisms scientifically using diverse traffic data.
 
-Previously, I served as a Research Associate at the **Korea Development Institute (KDI)**, where I conducted feasibility studies for national-scale road and railway projects. I hold an M.S. from Seoul National University and a B.S. from Korea University.
+Previously, I served as a Research Associate at the **Korea Development Institute (KDI)**, where I evaluated the feasibility of national road and railway projects to inform government funding decisions. I hold an M.S. from Seoul National University and a B.S. from Korea University.
 
 ## Research Interests
 
