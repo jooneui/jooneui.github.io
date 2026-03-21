@@ -80,7 +80,8 @@ google_scholar: https://scholar.google.com/
 cv_link: files/Curriculum_Vitae.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/in/jooneuih
-twitter: https://twitter.com/
+Youtube: www.youtube.com/@jooenuihong3667
+personal_blog: https://brunch.co.kr/@jooneuih
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
 # "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.
